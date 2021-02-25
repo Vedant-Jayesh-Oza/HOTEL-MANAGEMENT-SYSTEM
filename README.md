@@ -4,10 +4,15 @@ This options which arre provided for the hotel owners in this software are :-
 1. Manage their rooms :- > Add Rooms
                          > Search Rooms for their details
                          > back to main menu 
+
 2.Customer Check-Ins
+
 3.Availability of Rooms
+
 4.Searching history of customer 
+
 5.Customer Check-outs
+
 6. Guest Summary reports
 
 This the project which I and my 2 fellow mates have built using C++ language and its concepts like file handling, functions, etc.
